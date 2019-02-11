@@ -1,5 +1,6 @@
 package com.springbootVersionOne.rest.webservices.restfulwebservices.limitsservice.bean;
 
+//Bean class
 public class LimitConfiguration {
     private int maximum;
     private int minimum;
